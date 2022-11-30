@@ -4,7 +4,8 @@ export default [
     file: 'acache.json',
     name: 'Always-Cache',
     type: 'rev-proxy',
-    link: 'https://github.com/ericselin/always-cache'
+    link: 'https://github.com/always-cache/always-cache',
+    version: '1.0.0-alpha'
   },
   {
     file: 'chrome.json',
